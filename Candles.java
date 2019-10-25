@@ -1,5 +1,5 @@
 
-public class CandyLane {
+public class Candles {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
